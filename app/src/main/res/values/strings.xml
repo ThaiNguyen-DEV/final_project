@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_account">Account</string>
+
+    <string name="title_voucher">Discount</string>
+    <string name="title_payment_method">Payment Methods</string>
+
+    // action
+    <string name="action_ok">Accept</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_add">Add</string>
+
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="hint_password_old">Please enter old password</string>
+    <string name="hint_password_new">Please enter new password</string>
+    <string name="hint_password_confirm">Please confirm new password</string>
+    <string name="hint_optional">Optional</string>
+    <string name="hint_rating_review">Your reviews</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Sign up</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="have_not_account">Don\'t have an account?</string>
+    <string name="login">Sign in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="feedback">Feedback</string>
+    <string name="contact">Contact</string>
+    <string name="change_password">Change password</string>
+    <string name="sign_out">Sign out</string>
+    <string name="reset_password">Resend password</string>
+    <string name="add_address">Add address delivery</string>
+    <string name="full_name">Full Name:</string>
+    <string name="address">Address:</string>
+    <string name="phone_number">Phone:</string>
+    <string name="address_title">Address Delivery</string>
+    <string name="label_full_name">Full Name (*)</string>
+    <string name="label_phone">Phone (*)</string>
+    <string name="label_address">Address (*)</string>
+    <string name="order_full_name">Full Name</string>
+    <string name="order_address">Address</string>
+    <string name="order_phone_number">Phone</string>
+
+    <string name="msg_get_date_error">Error, please try again</string>
+    <string name="msg_exit_app">Wanna exit Coffee Shop?</string>
+    <string name="msg_waiting_message">Please wait…</string>
+
+    <string name="msg_email_require">Please enter your email</string>
+    <string name="msg_password_require">Please enter your password</string>
+    <string name="msg_email_invalid">Your email is not valid</string>
+
+    <string name="label_user_name">Email</string>
+    <string name="label_old_password">Old Password</string>
+    <string name="label_new_password">New Password</string>
+    <string name="label_confirm_new_password">Confirm New Password</string>
+    <string name="msg_old_password_require">Please enter old password</string>
+    <string name="msg_new_password_require">Please enter new password</string>
+    <string name="msg_confirm_password_require">Please confirm new password</string>
+    <string name="msg_old_password_invalid">Incorrect password, try again</string>
+    <string name="msg_confirm_password_invalid">Incorrect password, try again</string>
+    <string name="msg_new_password_invalid">Incorrect password, try again</string>
+
+    <string name="msg_change_password_successfully">Change password successful</string>
+    <string name="msg_reset_password_successfully">Successful, check your email</string>
+
+    <string name="msg_register_error">Error, try again</string>
+    <string name="msg_login_error">Error, try again</string>
+    <string name="message_enter_infor">Please fill all information</string>
+    <string name="msg_add_address_success">Add address delivery successful</string>
+
+    <string name="filter_all">All</string>
+    <string name="filter_rate">Rating</string>
+    <string name="filter_price">Price</string>
+    <string name="filter_promotion">Discount</string>
+
+    <string name="hint_home_search">Coffee Shop</string>
+    <string name="hint_voucher_code">Enter voucher code</string>
+    <string name="ratings_and_reviews">Rating and review</string>
+    <string name="customize">Option</string>
+    <string name="label_variant">Type</string>
+    <string name="label_size">Size</string>
+    <string name="label_sugar">Sugar</string>
+    <string name="label_ice">Ice</string>
+    <string name="label_hot">Hot</string>
+    <string name="label_regular">Small</string>
+    <string name="label_medium">Medium</string>
+    <string name="label_large">Large</string>
+    <string name="label_normal">Normal</string>
+    <string name="label_less">Less</string>
+    <string name="label_topping">Add some option</string>
+    <string name="label_notes">Notes</string>
+    <string name="label_total">Total price</string>
+    <string name="label_add_order">Add to cart</string>
+
+    <string name="label_rating_review_order">Rating for delivery</string>
+    <string name="label_rating_review_drink">Rating for drinks?</string>
+    <string name="label_rating">Rating</string>
+    <string name="label_review">Review</string>
+    <string name="label_review_note">Thank you for your review</string>
+    <string name="label_send_review">Send review</string>
+    <string name="msg_send_review_success">Review has been submitted</string>
+
+    <string name="label_cart">Cart</string>
+    <string name="label_checkout">Checkout</string>
+    <string name="label_payment_method">Payment method</string>
+    <string name="label_no_payment_method">Unselected payment method</string>
+    <string name="label_no_address">Unselected address delivery</string>
+    <string name="label_no_voucher">Unselected voucher</string>
+    <string name="label_payment_summary">Pay</string>
+    <string name="label_price">Price</string>
+    <string name="label_choose_payment_method">Please select payment method</string>
+    <string name="label_choose_address">Please select address delivery</string>
+    <string name="label_item">Option</string>
+
+    <string name="label_thank_you">Thanks for your order!</string>
+    <string name="label_your_transaction_success">Transaction Succesful</string>
+    <string name="label_id_transaction">Transaction ID</string>
+    <string name="label_date_and_time">Date and time</string>
+    <string name="label_tracking_order">Tracking order</string>
+    <string name="label_receipt_order">Receipt</string>
+
+    <string name="label_shop_takes_order">Thank you</string>
+    <string name="label_prepare_your_order">Prepare your order</string>
+    <string name="label_order_complete">Order complete</string>
+    <string name="label_take_order">Take order</string>
+    <string name="label_take_order_message">Please check your order</string>
+    <string name="label_process">Processing</string>
+    <string name="label_done">Done</string>
+    <string name="label_success">Success</string>
+
+    <string name="label_facebook">Facebook</string>
+    <string name="label_call">Call Phone</string>
+    <string name="label_gmail">Gmail</string>
+    <string name="label_skype">Instagram</string>
+    <string name="label_youtube">Youtube</string>
+    <string name="label_zalo">Zalo</string>
+    <string name="name_require">Please enter your name</string>
+    <string name="comment_require">Please enter your require</string>
+    <string name="msg_send_feedback_success">Thank you!</string>
+    <string name="feedback_name">Full Name (*)</string>
+    <string name="feedback_email">Email</string>
+    <string name="feedback_phone">Phone</string>
+    <string name="feedback_comment">Comment (*)</string>
+    <string name="send_feedback">Send feedback</string>
+
+</resources>
